@@ -1,0 +1,29 @@
+{
+  "port": "SystemLanguages-Main",
+  "name": "English",
+  "version": "0.1.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Virtual installer to setup the english language",
+  "website": "https://github.com/Fulgurance/SystemLanguages-Main/tree/master/English",
+  "installedFiles": [],
+  "dependencies": [],
+  "kernelDependencies": [],
+  "options": [
+    {
+      "name": "Kwin",
+      "description": "Enable kwin support",
+      "active": false,
+      "dependencies": [
+        {
+          "name": "Kwin",
+          "version": ">=0.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
+  "uniqueOptions": []
+}
