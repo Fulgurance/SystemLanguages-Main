@@ -12,16 +12,17 @@
   "kernelDependencies": [],
   "options": [
     {
-      "name": "Kwin",
-      "description": "Enable kwin support",
+      "name": "Britain",
+      "description": "Enable Britain support",
       "active": false,
-      "dependencies": [
-        {
-          "name": "Kwin",
-          "version": ">=0.0.0",
-          "options": []
-        }
-      ],
+      "dependencies": [],
+      "kernelDependencies": []
+    },
+    {
+      "name": "USA",
+      "description": "Enable USA support",
+      "active": true,
+      "dependencies": [],
       "kernelDependencies": []
     }
   ],
