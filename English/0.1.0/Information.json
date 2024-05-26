@@ -2,9 +2,7 @@
   "port": "SystemLanguages-Main",
   "name": "English",
   "version": "0.1.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Virtual installer to setup the english language",
   "website": "https://github.com/Fulgurance/SystemLanguages-Main/tree/master/English",
   "installedFiles": [],
@@ -12,6 +10,7 @@
   "kernelDependencies": [],
   "options": [
     {
+      "port": "ProgrammingLanguages-Main",
       "name": "Britain",
       "description": "Enable Britain support",
       "active": false,
@@ -19,6 +18,7 @@
       "kernelDependencies": []
     },
     {
+      "port": "ProgrammingLanguages-Main",
       "name": "USA",
       "description": "Enable USA support",
       "active": true,
