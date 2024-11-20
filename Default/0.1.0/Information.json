@@ -1,0 +1,16 @@
+{
+  "port": "SystemLanguages-Main",
+  "name": "Default",
+  "version": "0.1.0",
+  "architectures": ["x86_64"],
+  "description": "Virtual installer to setup the default language",
+  "website": "https://github.com/Fulgurance/SystemLanguages-Main/tree/master/Default",
+  "installedFiles": [],
+  "dependencies": [],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
