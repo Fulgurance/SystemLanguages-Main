@@ -1,6 +1,6 @@
 class Target < ISM::VirtualSoftware
 
-    def install
+    def deploy
         super
 
         #Install a fallback language by default
